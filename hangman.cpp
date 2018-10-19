@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// Prototype. we'll define this below.
+
 int processGuess(char* word, const char* targetWord, char guess);
 
 // Define an array of strings (since a string is just a char array)
